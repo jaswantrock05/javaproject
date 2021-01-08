@@ -1,0 +1,10 @@
+action github perfom sequence of step , aws certain of step docker image kubernetes unique build image 
+public repoaitory 
+
+vignesh . kubernetes . 
+
+
+github action 
+
+
+jenkins e
