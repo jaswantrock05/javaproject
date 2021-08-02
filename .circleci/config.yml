@@ -11,7 +11,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "89:b4:7f:9b:a0:47:02:c6:7d:06:86:80:ea:86:f7:06"          
+            - "0e:9c:c6:ba:87:19:aa:fa:cb:dc:10:1f:e6:48:a3:2e"          
       - run:
           name: script
           command: |
